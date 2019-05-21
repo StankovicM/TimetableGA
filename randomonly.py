@@ -7,6 +7,12 @@ dani = ['pon', 'uto', 'sre', 'cet', 'pet']
 
 ucionice = []
 
+ulaz = 'ulaz2.json'
+izlaz = 'izlaz2.json'
+sacuvaj_rez = False
+
+mutacija = 0.1
+
 class Termin():
 
     def __init__(self, ucionica, dan, sat, trajanje):
@@ -146,87 +152,27 @@ class Cas():
     def __str__(self):
         return self.__repr__()
 
-def poklapanje(termini, termin):
-    if len(termini) == 0:
-        return False
-
-    for t in termini:
-        if t.poklapanje(termin):
-            return True
-
-    return False
-
-def nadji_termin(termini, m_ucionice, trajanje):
-    for dan in range(5):
-        for sat in range(9, 21 - trajanje + 1):
-            for u in ucionice[m_ucionice]:
-                termin = Termin(u, dani[dan], sat, trajanje)
-                if not poklapanje(termini, termin):
-                    return termin
-
-    return None
-
-def fensi_raspored(raspored, casovi):
-
-    termini = set()
-    while len(casovi) > 0:
-        c = casovi.pop(0)
-        predmet = c['Predmet']
-        tip = c['Tip']
-        nastavnik = c['Nastavnik']
-        grupe = c['Grupe']
-        m_ucionice = c['Ucionica']
-        trajanje = int(c['Trajanje'])
-
-        termin = nadji_termin(termini, m_ucionice, trajanje)
-        if termin is None:
-            ucionica = random.choice(ucionice[m_ucionice])
-            dan = random.choice(dani)
-            sat = random.randint(9, 21 - trajanje)
-            termin = Termin(ucionica, dan, sat, trajanje)    
-
-        termini.add(termin)
-        raspored.append(Cas(predmet, tip, nastavnik, grupe, m_ucionice, trajanje, termin))
-
-    return
-
-def eval_test(raspored):
-    rez = 0
-    for i in range(len(raspored)):
-        for j in range(len(raspored)):
-            if i - j >= 0:
-                continue
-
-            if raspored[i].termin.poklapanje(raspored[j].termin):
-                rez += 1
-
-        break
-
-    return rez
-
 class Hromozom():
 
-    def __init__(self, casovi, raspored=None, rand=True):
+    def __init__(self, casovi, raspored=None):
         if raspored is None:
             self.raspored = []
 
-            if rand:
-                for c in casovi:
-                    predmet = c['Predmet']
-                    tip = c['Tip']
-                    nastavnik = c['Nastavnik']
-                    grupe = c['Grupe']
-                    m_ucionice = c['Ucionica']
-                    trajanje = int(c['Trajanje'])
+            for c in casovi:
+                predmet = c['Predmet']
+                tip = c['Tip']
+                nastavnik = c['Nastavnik']
+                grupe = c['Grupe']
+                m_ucionice = c['Ucionica']
+                trajanje = int(c['Trajanje'])
 
-                    ucionica = random.choice(ucionice[m_ucionice])
-                    dan = random.choice(dani)
-                    sat = random.randint(9, 21 - trajanje)
-                    termin = Termin(ucionica, dan, sat, trajanje)
+                ucionica = random.choice(ucionice[m_ucionice])
+                dan = random.choice(dani)
+                sat = random.randint(9, 21 - trajanje)
+                termin = Termin(ucionica, dan, sat, trajanje)
 
-                    self.raspored.append(Cas(predmet, tip, nastavnik, grupe, m_ucionice, trajanje, termin))
-            else:
-                fensi_raspored(self.raspored, casovi)
+                self.raspored.append(Cas(predmet, tip, nastavnik, grupe, m_ucionice, trajanje, termin))
+
         else:
             self.raspored = raspored.copy()
 
@@ -235,35 +181,17 @@ class Hromozom():
         self.evaluacija()
 
     def evaluacija(self):
-        self.fitnes = eval_test(self.raspored)
-        return self.fitnes
-
-    def evaluacija1(self):
-        kolizije = []
+        self.kolizije.clear()
         for i in range(len(self.raspored)):
             for j in range(len(self.raspored)):
-                if i == j:
+                if i - j >= 0:
                     continue
 
                 if self.raspored[i].termin.poklapanje(self.raspored[j].termin):
-                    if (not ((i, j) in kolizije)) and (not ((j, i) in kolizije)):
-                        kolizije.append((i, j))
-
                     self.kolizije.add(j)
 
-        self.fitnes = len(kolizije)
-        return self.fitnes
-
-    def evaluacija2(self):
-        kolizije = {}
-        for c in self.raspored:
-            if c.termin not in kolizije:
-                kolizije[c.termin] = 0
-            else:
-                kolizije[c.termin] += 1
-
-        self.fitnes = sum(kolizije.values()) 
-        return self.fitnes
+        self.fitnes = len(self.kolizije)
+        return
 
     def mutacija(self):
         casovi = list(self.kolizije)
@@ -278,6 +206,19 @@ class Hromozom():
                 termin.ucionica = random.choice(ucionice[cas.m_ucionice])
 
             self.raspored[i].termin = termin
+
+        return
+
+    def mutacija_r(self):
+        for c in self.raspored:
+            t = random.uniform(0, 1)
+            if t < mutacija:
+                t = random.uniform(0, 1)
+                if t < 0.5:
+                    c.termin.dan = random.choice(dani)
+                    c.termin.sat = random.randint(9, 21 - c.trajanje)
+                else:
+                    c.termin.ucionica = random.choice(ucionice[c.m_ucionice])
 
         return
 
@@ -318,9 +259,6 @@ class Populacija():
 
 if __name__ == '__main__':
 
-    ulaz = 'ulaz1.json'
-    izlaz = 'izlaz1.json'
-
     data = None
     with open(ulaz, 'r') as f:
         data = json.load(f)
@@ -328,28 +266,8 @@ if __name__ == '__main__':
     ucionice = data['Ucionice']
     casovi = data['Casovi']
 
-    #n = 10
-    #test_mat = [[0 for _ in range(n)] for _ in range(n)]
-    #for i in range(n):
-    #    for j in range(n):
-    #        if i - j < 0:
-    #            test_mat[i][j] = 1
-
-    #print('  ', '  '.join(map(str, [i for i in range(n)]))) 
-    #for i in range(n):
-    #    print(i, test_mat[i])
-    #termini = {Termin('U1', 'pon', 9, 2), Termin('U8', 'pon', 9, 2)}
-    #nadji_termin(termini, 'n', 2)
-
-    #if False:
-    #    test_rasp = []
-    #    fensi_raspored(test_rasp, casovi.copy())
-    #    eval_test(test_rasp)
-    #    test_rasp.sort(key=lambda c: c.termin)
-    #    print('\n'.join(map(str, test_rasp)))
-
     if True:
-        p = Populacija(8, 4, casovi)
+        p = Populacija(4, 8, casovi)
         i = 0
         for i in range(5000):
             if p.najbolji.fitnes == 0:
@@ -366,6 +284,6 @@ if __name__ == '__main__':
         print(p.najbolji)
         print(f'Konacno resenje posle {i} generacija.')
         raspored = {"Raspored":[{'Predmet':c.predmet, 'Tip':c.tip, 'Nastavnik':c.nastavnik, 'Grupe':c.grupe, 'Termin':str(c.termin)} for c in p.najbolji.raspored]}
-        if False:
+        if sacuvaj_rez:
             with open(izlaz, 'w') as f:
                 json.dump(raspored, f, indent=4)
