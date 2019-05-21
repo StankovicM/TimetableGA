@@ -2,16 +2,17 @@
 # Ako se poklapaju po vremenu promeniti ucionice
 # ako se poklapaju po ucionici promeniti vreme
 import json, random
+from threading import Thread
 
 dani = ['pon', 'uto', 'sre', 'cet', 'pet']
 
 ucionice = []
 
-ulaz = 'ulaz2.json'
+ulaz = 'ulaz3.json'
 izlaz = 'izlaz2.json'
 sacuvaj_rez = False
 
-mutacija = 0.1
+mutacija = 0.3
 
 class Termin():
 
@@ -257,6 +258,36 @@ class Populacija():
 
         return
 
+class GA(Thread):
+
+    def __init__(self, mi, lm, casovi, gen):
+        Thread.__init__(self)
+        self.populacija = Populacija(mi, lm, casovi)
+        self.gen = gen
+
+    def run(self):
+        i = 0
+        for i in range(self.gen):
+            if self.populacija.najbolji.fitnes == 0:
+                break
+            
+            self.populacija.selekcija()
+            self.populacija.mutacija()
+            self.populacija.evaluacija()
+
+            if (i + 1) % 50 == 0:
+                print(f'Najbolji hromozom u generaciji {i + 1}: {self.populacija.najbolji.fitnes}')
+
+        self.populacija.najbolji.raspored.sort(key=lambda c: c.termin)    
+        print(self.populacija.najbolji)
+        print(f'Konacno resenje posle {i} generacija.')
+        raspored = {"Raspored":[{'Predmet':c.predmet, 'Tip':c.tip, 'Nastavnik':c.nastavnik, 'Grupe':c.grupe, 'Termin':str(c.termin)} for c in self.populacija.najbolji.raspored]}
+        if sacuvaj_rez:
+            with open(izlaz, 'w') as f:
+                json.dump(raspored, f, indent=4)
+
+        return
+
 if __name__ == '__main__':
 
     data = None
@@ -266,24 +297,5 @@ if __name__ == '__main__':
     ucionice = data['Ucionice']
     casovi = data['Casovi']
 
-    if True:
-        p = Populacija(4, 8, casovi)
-        i = 0
-        for i in range(5000):
-            if p.najbolji.fitnes == 0:
-                break
-            
-            p.selekcija()
-            p.mutacija()
-            p.evaluacija()
-
-            if (i + 1) % 50 == 0:
-                print(f'Najbolji hromozom u generaciji {i + 1}: {p.najbolji.fitnes}')
-
-        p.najbolji.raspored.sort(key=lambda c: c.termin)    
-        print(p.najbolji)
-        print(f'Konacno resenje posle {i} generacija.')
-        raspored = {"Raspored":[{'Predmet':c.predmet, 'Tip':c.tip, 'Nastavnik':c.nastavnik, 'Grupe':c.grupe, 'Termin':str(c.termin)} for c in p.najbolji.raspored]}
-        if sacuvaj_rez:
-            with open(izlaz, 'w') as f:
-                json.dump(raspored, f, indent=4)
+    ga = GA(4, 8, casovi, 5000)
+    ga.start()
