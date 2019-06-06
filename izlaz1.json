@@ -1,196 +1,22 @@
 {
     "Raspored": [
         {
-            "Predmet": "Razvoj web aplikacija i servisa",
-            "Tip": "P",
-            "Nastavnik": "Markovic Nemanja",
-            "Grupe": [
-                "3s2"
-            ],
-            "Termin": "PON 9h-12h, U4"
-        },
-        {
             "Predmet": "Programski prevodioci",
-            "Tip": "V",
-            "Nastavnik": "Stankovic Ivana",
-            "Grupe": [
-                "302",
-                "303",
-                "304"
-            ],
-            "Termin": "PON 10h-12h, U3"
-        },
-        {
-            "Predmet": "Implementiranje Microsoft ISA servera",
             "Tip": "P",
-            "Nastavnik": "Lale Sinisa",
-            "Grupe": [
-                "3s1"
-            ],
-            "Termin": "PON 10h-13h, U5"
-        },
-        {
-            "Predmet": "Istorija racunarstva",
-            "Tip": "P",
-            "Nastavnik": "Zahorjanski Miroljub",
-            "Grupe": [
-                "3s1",
-                "3s2"
-            ],
-            "Termin": "PON 11h-13h, U1"
-        },
-        {
-            "Predmet": "Namenski racunarski sistemi",
-            "Tip": "V",
-            "Nastavnik": "Stambolovic Bogdana",
-            "Grupe": [
-                "405"
-            ],
-            "Termin": "PON 12h-15h, U3"
-        },
-        {
-            "Predmet": "Softverske komponente",
-            "Tip": "P",
-            "Nastavnik": "Dimic Surla Bojana",
+            "Nastavnik": "Vujosevic Dusan",
             "Grupe": [
                 "301",
+                "302",
+                "303",
+                "304",
+                "305",
+                "306",
                 "307",
-                "309a"
-            ],
-            "Termin": "PON 13h-15h, U8"
-        },
-        {
-            "Predmet": "Interakcija covek racunar",
-            "Tip": "V",
-            "Nastavnik": "Radosavljevic Nemanja",
-            "Grupe": [
                 "308",
                 "309",
                 "309a"
             ],
-            "Termin": "PON 13h-15h, U4"
-        },
-        {
-            "Predmet": "Racunarska animacija",
-            "Tip": "P",
-            "Nastavnik": "Djuric Milan",
-            "Grupe": [
-                "3d1"
-            ],
-            "Termin": "PON 13h-16h, U1"
-        },
-        {
-            "Predmet": "Bezbednost mreza",
-            "Tip": "P",
-            "Nastavnik": "Babic Djorde",
-            "Grupe": [
-                "313",
-                "314",
-                "319",
-                "323",
-                "324",
-                "322"
-            ],
-            "Termin": "PON 14h-16h, U7"
-        },
-        {
-            "Predmet": "Graficki dizajn 2",
-            "Tip": "V",
-            "Nastavnik": "Malesevic Nenad",
-            "Grupe": [
-                "3d1"
-            ],
-            "Termin": "PON 15h-18h, Atelje"
-        },
-        {
-            "Predmet": "Uvod u robotiku",
-            "Tip": "V",
-            "Nastavnik": "Jovanovic Miljana",
-            "Grupe": [
-                "313",
-                "323"
-            ],
-            "Termin": "PON 16h-18h, U7"
-        },
-        {
-            "Predmet": "Modelovanje i simulacija",
-            "Tip": "V",
-            "Nastavnik": "Jankovic Radomir",
-            "Grupe": [
-                "319",
-                "323"
-            ],
-            "Termin": "PON 17h-19h, U4"
-        },
-        {
-            "Predmet": "Graficki dizajn 2",
-            "Tip": "P",
-            "Nastavnik": "Malesevic Nenad",
-            "Grupe": [
-                "3d1"
-            ],
-            "Termin": "PON 17h-20h, U8"
-        },
-        {
-            "Predmet": "Uvod u robotiku",
-            "Tip": "P",
-            "Nastavnik": "Jovanovic Milos",
-            "Grupe": [
-                "313",
-                "323"
-            ],
-            "Termin": "PON 18h-20h, U1"
-        },
-        {
-            "Predmet": "Modelovanje i simulacija",
-            "Tip": "V",
-            "Nastavnik": "Jankovic Radomir",
-            "Grupe": [
-                "309a",
-                "324",
-                "305"
-            ],
-            "Termin": "UTO 10h-12h, U5"
-        },
-        {
-            "Predmet": "Scenario i knjiga snimanja",
-            "Tip": "V",
-            "Nastavnik": "Stetin Darko",
-            "Grupe": [
-                "3d1"
-            ],
-            "Termin": "UTO 10h-12h, U1"
-        },
-        {
-            "Predmet": "Softversko inzenjerstvo",
-            "Tip": "P",
-            "Nastavnik": "Perisic Branko",
-            "Grupe": [
-                "401",
-                "402"
-            ],
-            "Termin": "UTO 10h-14h, U8"
-        },
-        {
-            "Predmet": "Genetski algoritmi",
-            "Tip": "V",
-            "Nastavnik": "Tomic Milan",
-            "Grupe": [
-                "309",
-                "309a",
-                "305",
-                "306"
-            ],
-            "Termin": "UTO 11h-13h, U3"
-        },
-        {
-            "Predmet": "Softversko inzenjerstvo",
-            "Tip": "V",
-            "Nastavnik": "Markovic Ana",
-            "Grupe": [
-                "401"
-            ],
-            "Termin": "UTO 11h-15h, U7"
+            "Termin": "pon 9h-11, U1"
         },
         {
             "Predmet": "Kompresija podataka",
@@ -204,34 +30,25 @@
                 "324",
                 "322"
             ],
-            "Termin": "UTO 12h-15h, U5"
+            "Termin": "pon 9h-12, U7"
         },
         {
-            "Predmet": "Microsoft tehnologije za pristup podacima",
-            "Tip": "P",
-            "Nastavnik": "Milosavljevic Milos",
-            "Grupe": [
-                "3s2"
-            ],
-            "Termin": "UTO 13h-16h, U4"
-        },
-        {
-            "Predmet": "Muzicka produkcija 3",
-            "Tip": "P",
-            "Nastavnik": "Ognjanovic Ivana",
+            "Predmet": "Graficki dizajn 2",
+            "Tip": "V",
+            "Nastavnik": "Malesevic Nenad",
             "Grupe": [
                 "3d1"
             ],
-            "Termin": "UTO 15h-18h, Studio"
+            "Termin": "pon 9h-12, Atelje"
         },
         {
-            "Predmet": "Konkurentni i distribuirani sistemi",
-            "Tip": "V",
-            "Nastavnik": "Milojkovic Branislav",
+            "Predmet": "Implementiranje Microsoft ISA servera",
+            "Tip": "P",
+            "Nastavnik": "Lale Sinisa",
             "Grupe": [
-                "402"
+                "3s1"
             ],
-            "Termin": "UTO 15h-18h, U3"
+            "Termin": "pon 9h-12, U4"
         },
         {
             "Predmet": "Masinsko ucenje",
@@ -243,40 +60,85 @@
                 "306",
                 "308"
             ],
-            "Termin": "UTO 16h-18h, U1"
+            "Termin": "pon 11h-13, U1"
         },
         {
-            "Predmet": "Razvoj mobilnih aplikacija",
-            "Tip": "P",
-            "Nastavnik": "Zirojevic Nemanja",
+            "Predmet": "Namenski racunarski sistemi",
+            "Tip": "V",
+            "Nastavnik": "Stambolovic Bogdana",
             "Grupe": [
+                "405"
+            ],
+            "Termin": "pon 11h-14, U5"
+        },
+        {
+            "Predmet": "Muzicka produkcija 3",
+            "Tip": "V",
+            "Nastavnik": "Ognjanovic Ivana",
+            "Grupe": [
+                "3d1"
+            ],
+            "Termin": "pon 12h-15, Studio"
+        },
+        {
+            "Predmet": "Prakticne tehnike zastite u IP mrezama",
+            "Tip": "P",
+            "Nastavnik": "Bojovic Petar",
+            "Grupe": [
+                "3s1"
+            ],
+            "Termin": "pon 12h-15, U4"
+        },
+        {
+            "Predmet": "WEB programiranje",
+            "Tip": "P",
+            "Nastavnik": "Vidakovic MIlan",
+            "Grupe": [
+                "301",
                 "303",
                 "304",
-                "305",
-                "306",
                 "307",
                 "308",
-                "313",
-                "314"
+                "309",
+                "314",
+                "319",
+                "322"
             ],
-            "Termin": "UTO 16h-18h, U8"
+            "Termin": "pon 13h-15, U1"
         },
         {
-            "Predmet": "Programski prevodioci",
-            "Tip": "V",
-            "Nastavnik": "Stankovic Ivana",
+            "Predmet": "Softverske komponente",
+            "Tip": "P",
+            "Nastavnik": "Dimic Surla Bojana",
             "Grupe": [
-                "306",
+                "301",
                 "307",
-                "309",
                 "309a"
             ],
-            "Termin": "UTO 16h-18h, U5"
+            "Termin": "pon 15h-17, U1"
         },
         {
-            "Predmet": "Kompresija podataka",
+            "Predmet": "Prakticne tehnike zastite u IP mrezama",
             "Tip": "V",
-            "Nastavnik": "Vukotic Selena",
+            "Nastavnik": "Jankovski Ivan",
+            "Grupe": [
+                "3s1"
+            ],
+            "Termin": "pon 15h-18, U4"
+        },
+        {
+            "Predmet": "Konkurentni i distribuirani sistemi",
+            "Tip": "V",
+            "Nastavnik": "Milojkovic Branislav",
+            "Grupe": [
+                "402"
+            ],
+            "Termin": "pon 15h-18, U7"
+        },
+        {
+            "Predmet": "Kodovanje i teorija informacija",
+            "Tip": "V",
+            "Nastavnik": "Jovanovic Miljana",
             "Grupe": [
                 "313",
                 "314",
@@ -285,21 +147,143 @@
                 "324",
                 "322"
             ],
-            "Termin": "UTO 17h-19h, U4"
+            "Termin": "pon 16h-18, U5"
         },
         {
-            "Predmet": "Genetski algoritmi",
+            "Predmet": "Masinsko ucenje",
+            "Tip": "V",
+            "Nastavnik": "Jovanovic Nikola",
+            "Grupe": [
+                "301",
+                "308",
+                "302",
+                "306"
+            ],
+            "Termin": "pon 17h-19, U1"
+        },
+        {
+            "Predmet": "Razvoj infrastrukture i servisa u oblaku",
             "Tip": "P",
-            "Nastavnik": "Vasiljevic Jelena",
+            "Nastavnik": "Miletic Misa",
+            "Grupe": [
+                "3s2"
+            ],
+            "Termin": "pon 18h-21, U4"
+        },
+        {
+            "Predmet": "Programski prevodioci",
+            "Tip": "V",
+            "Nastavnik": "Stankovic Ivana",
             "Grupe": [
                 "302",
                 "303",
+                "304"
+            ],
+            "Termin": "pon 19h-21, U3"
+        },
+        {
+            "Predmet": "Funkcionalno programiranje",
+            "Tip": "P",
+            "Nastavnik": "Dimic Surla Bojana",
+            "Grupe": [
+                "302",
+                "304",
+                "309"
+            ],
+            "Termin": "uto 9h-11, U3"
+        },
+        {
+            "Predmet": "Razvoj infrastrukture i servisa u oblaku",
+            "Tip": "V",
+            "Nastavnik": "Miletic Misa",
+            "Grupe": [
+                "3s2"
+            ],
+            "Termin": "uto 9h-12, U4"
+        },
+        {
+            "Predmet": "WEB programiranje",
+            "Tip": "V",
+            "Nastavnik": "Gavrilovic Vuk",
+            "Grupe": [
+                "301",
+                "303",
+                "304",
+                "307",
+                "322"
+            ],
+            "Termin": "uto 11h-13, U5"
+        },
+        {
+            "Predmet": "Modelovanje i simulacija",
+            "Tip": "P",
+            "Nastavnik": "Jankovic Radomir",
+            "Grupe": [
                 "305",
-                "306",
-                "309",
+                "319",
+                "323",
+                "309a",
+                "324"
+            ],
+            "Termin": "uto 11h-13, U8"
+        },
+        {
+            "Predmet": "Scenario i knjiga snimanja",
+            "Tip": "P",
+            "Nastavnik": "Stetin Darko",
+            "Grupe": [
+                "3d1"
+            ],
+            "Termin": "uto 11h-14, Atelje"
+        },
+        {
+            "Predmet": "Razvoj web aplikacija i servisa",
+            "Tip": "P",
+            "Nastavnik": "Markovic Nemanja",
+            "Grupe": [
+                "3s2"
+            ],
+            "Termin": "uto 12h-15, U4"
+        },
+        {
+            "Predmet": "Interakcija covek racunar",
+            "Tip": "V",
+            "Nastavnik": "Radosavljevic Nemanja",
+            "Grupe": [
+                "302",
+                "307",
+                "306"
+            ],
+            "Termin": "uto 13h-15, U3"
+        },
+        {
+            "Predmet": "Softverske komponente",
+            "Tip": "V",
+            "Nastavnik": "Radovic Mihailo",
+            "Grupe": [
+                "301",
+                "307",
                 "309a"
             ],
-            "Termin": "UTO 19h-21h, U8"
+            "Termin": "uto 15h-17, U7"
+        },
+        {
+            "Predmet": "Razvoj web aplikacija i servisa",
+            "Tip": "P",
+            "Nastavnik": "Markovic Nemanja",
+            "Grupe": [
+                "3s2"
+            ],
+            "Termin": "uto 15h-18, U4"
+        },
+        {
+            "Predmet": "Softversko inzenjerstvo",
+            "Tip": "V",
+            "Nastavnik": "Markovic Ana",
+            "Grupe": [
+                "402"
+            ],
+            "Termin": "uto 17h-21, U5"
         },
         {
             "Predmet": "Interakcija covek racunar",
@@ -319,7 +303,77 @@
                 "2s1",
                 "2s2"
             ],
-            "Termin": "SRE 9h-11h, Kolarac"
+            "Termin": "uto 18h-20, Kolarac"
+        },
+        {
+            "Predmet": "Graficki dizajn 2",
+            "Tip": "P",
+            "Nastavnik": "Malesevic Nenad",
+            "Grupe": [
+                "3d1"
+            ],
+            "Termin": "uto 18h-21, U1"
+        },
+        {
+            "Predmet": "Microsoft tehnologije za pristup podacima",
+            "Tip": "P",
+            "Nastavnik": "Milosavljevic Milos",
+            "Grupe": [
+                "3s2"
+            ],
+            "Termin": "uto 18h-21, U4"
+        },
+        {
+            "Predmet": "WEB programiranje",
+            "Tip": "V",
+            "Nastavnik": "Gavrilovic Vuk",
+            "Grupe": [
+                "308",
+                "309",
+                "314",
+                "319"
+            ],
+            "Termin": "sre 9h-11, U3"
+        },
+        {
+            "Predmet": "Racunarska animacija",
+            "Tip": "P",
+            "Nastavnik": "Djuric Milan",
+            "Grupe": [
+                "3d1"
+            ],
+            "Termin": "sre 9h-12, U1"
+        },
+        {
+            "Predmet": "Microsoft tehnologije za pristup podacima",
+            "Tip": "P",
+            "Nastavnik": "Milosavljevic Milos",
+            "Grupe": [
+                "3s2"
+            ],
+            "Termin": "sre 9h-12, U4"
+        },
+        {
+            "Predmet": "Genetski algoritmi",
+            "Tip": "V",
+            "Nastavnik": "Tomic Milan",
+            "Grupe": [
+                "309",
+                "309a",
+                "305",
+                "306"
+            ],
+            "Termin": "sre 11h-13, U3"
+        },
+        {
+            "Predmet": "Uvod u robotiku",
+            "Tip": "P",
+            "Nastavnik": "Jovanovic Milos",
+            "Grupe": [
+                "313",
+                "323"
+            ],
+            "Termin": "sre 12h-14, U8"
         },
         {
             "Predmet": "Racunarska animacija",
@@ -328,64 +382,77 @@
             "Grupe": [
                 "3d1"
             ],
-            "Termin": "SRE 9h-12h, U8"
+            "Termin": "sre 12h-15, U1"
+        },
+        {
+            "Predmet": "Konkurentni i distribuirani sistemi",
+            "Tip": "V",
+            "Nastavnik": "Milojkovic Branislav",
+            "Grupe": [
+                "401"
+            ],
+            "Termin": "sre 12h-15, U4"
+        },
+        {
+            "Predmet": "Modelovanje i simulacija",
+            "Tip": "V",
+            "Nastavnik": "Jankovic Radomir",
+            "Grupe": [
+                "309a",
+                "324",
+                "305"
+            ],
+            "Termin": "sre 13h-15, U3"
+        },
+        {
+            "Predmet": "Modelovanje i simulacija",
+            "Tip": "V",
+            "Nastavnik": "Jankovic Radomir",
+            "Grupe": [
+                "319",
+                "323"
+            ],
+            "Termin": "sre 15h-17, U3"
         },
         {
             "Predmet": "Scenario i knjiga snimanja",
-            "Tip": "P",
+            "Tip": "V",
             "Nastavnik": "Stetin Darko",
             "Grupe": [
                 "3d1"
             ],
-            "Termin": "SRE 9h-12h, Atelje"
+            "Termin": "sre 15h-17, U1"
         },
         {
-            "Predmet": "Razvoj infrastrukture i servisa u oblaku",
+            "Predmet": "Softversko inzenjerstvo",
             "Tip": "V",
-            "Nastavnik": "Miletic Misa",
+            "Nastavnik": "Markovic Ana",
             "Grupe": [
+                "401"
+            ],
+            "Termin": "sre 15h-19, U4"
+        },
+        {
+            "Predmet": "Interakcija covek racunar",
+            "Tip": "V",
+            "Nastavnik": "Radosavljevic Nemanja",
+            "Grupe": [
+                "301",
+                "303",
+                "304",
+                "305"
+            ],
+            "Termin": "sre 16h-18, U7"
+        },
+        {
+            "Predmet": "Istorija racunarstva",
+            "Tip": "P",
+            "Nastavnik": "Zahorjanski Miroljub",
+            "Grupe": [
+                "3s1",
                 "3s2"
             ],
-            "Termin": "SRE 9h-12h, U7"
-        },
-        {
-            "Predmet": "Prakticne tehnike zastite u IP mrezama",
-            "Tip": "P",
-            "Nastavnik": "Bojovic Petar",
-            "Grupe": [
-                "3s1"
-            ],
-            "Termin": "SRE 10h-13h, U4"
-        },
-        {
-            "Predmet": "Teorija algoritama, automata i jezika",
-            "Tip": "V",
-            "Nastavnik": "Tomic Milan",
-            "Grupe": [
-                "401",
-                "402"
-            ],
-            "Termin": "SRE 12h-15h, U8"
-        },
-        {
-            "Predmet": "Funkcionalno programiranje",
-            "Tip": "P",
-            "Nastavnik": "Dimic Surla Bojana",
-            "Grupe": [
-                "302",
-                "304",
-                "309"
-            ],
-            "Termin": "SRE 14h-16h, U5"
-        },
-        {
-            "Predmet": "Prakticne tehnike zastite u IP mrezama",
-            "Tip": "V",
-            "Nastavnik": "Jankovski Ivan",
-            "Grupe": [
-                "3s1"
-            ],
-            "Termin": "SRE 15h-18h, U3"
+            "Termin": "sre 17h-19, U1"
         },
         {
             "Predmet": "Programski prevodioci",
@@ -396,81 +463,45 @@
                 "305",
                 "308"
             ],
-            "Termin": "SRE 16h-18h, U4"
+            "Termin": "sre 19h-21, U7"
         },
         {
-            "Predmet": "Upravljanje i odrzavanje Windows Server okruzenja",
-            "Tip": "P",
-            "Nastavnik": "Lale Sinisa",
+            "Predmet": "Kompresija podataka",
+            "Tip": "V",
+            "Nastavnik": "Vukotic Selena",
             "Grupe": [
-                "3s1"
+                "313",
+                "314",
+                "319",
+                "323",
+                "324",
+                "322"
             ],
-            "Termin": "SRE 16h-19h, U7"
-        },
-        {
-            "Predmet": "Konkurentni i distribuirani sistemi",
-            "Tip": "P",
-            "Nastavnik": "Milinkovic Stevan",
-            "Grupe": [
-                "401",
-                "402",
-                "405"
-            ],
-            "Termin": "SRE 16h-19h, U8"
-        },
-        {
-            "Predmet": "Razvoj web aplikacija i servisa",
-            "Tip": "P",
-            "Nastavnik": "Markovic Nemanja",
-            "Grupe": [
-                "3s2"
-            ],
-            "Termin": "SRE 18h-21h, U4"
-        },
-        {
-            "Predmet": "Digitalna obrada signala",
-            "Tip": "P",
-            "Nastavnik": "Babic Djorde",
-            "Grupe": [
-                "405"
-            ],
-            "Termin": "SRE 18h-21h, U3"
-        },
-        {
-            "Predmet": "Upravljanje i odrzavanje Windows Server okruzenja",
-            "Tip": "P",
-            "Nastavnik": "Lale Sinisa",
-            "Grupe": [
-                "3s1"
-            ],
-            "Termin": "CET 9h-12h, U4"
+            "Termin": "sre 19h-21, U3"
         },
         {
             "Predmet": "Softversko inzenjerstvo",
-            "Tip": "V",
-            "Nastavnik": "Markovic Ana",
+            "Tip": "P",
+            "Nastavnik": "Perisic Branko",
             "Grupe": [
+                "401",
                 "402"
             ],
-            "Termin": "CET 12h-16h, U3"
+            "Termin": "cet 9h-13, U1"
         },
         {
-            "Predmet": "Programski prevodioci",
+            "Predmet": "Bezbednost mreza",
             "Tip": "P",
-            "Nastavnik": "Vujosevic Dusan",
+            "Nastavnik": "Babic Djorde",
             "Grupe": [
-                "301",
-                "302",
-                "303",
-                "304",
-                "305",
-                "306",
-                "307",
-                "308",
-                "309",
-                "309a"
+                "313",
+                "314",
+                "319",
+                "323",
+                "324",
+                "322"
             ],
-            "Termin": "CET 13h-15h, U1"
+            "Termin": "cet 10h-12, U7"
         },
         {
             "Predmet": "Razvoj mobilnih aplikacija",
@@ -486,98 +517,70 @@
                 "313",
                 "314"
             ],
-            "Termin": "CET 13h-15h, U5"
+            "Termin": "cet 13h-15, U7"
         },
         {
-            "Predmet": "Kodovanje i teorija informacija",
+            "Predmet": "Teorija algoritama, automata i jezika",
+            "Tip": "P",
+            "Nastavnik": "Jovanovic Jelena",
+            "Grupe": [
+                "401",
+                "402"
+            ],
+            "Termin": "cet 13h-16, U1"
+        },
+        {
+            "Predmet": "Teorija algoritama, automata i jezika",
+            "Tip": "V",
+            "Nastavnik": "Tomic Milan",
+            "Grupe": [
+                "401",
+                "402"
+            ],
+            "Termin": "cet 16h-19, U1"
+        },
+        {
+            "Predmet": "Konkurentni i distribuirani sistemi",
+            "Tip": "V",
+            "Nastavnik": "Milojkovic Branislav",
+            "Grupe": [
+                "405"
+            ],
+            "Termin": "cet 16h-19, U4"
+        },
+        {
+            "Predmet": "Uvod u robotiku",
             "Tip": "V",
             "Nastavnik": "Jovanovic Miljana",
             "Grupe": [
                 "313",
-                "314",
-                "319",
-                "323",
+                "323"
+            ],
+            "Termin": "cet 17h-19, U5"
+        },
+        {
+            "Predmet": "Data centar infrastruktura",
+            "Tip": "P",
+            "Nastavnik": "Martic Goran",
+            "Grupe": [
                 "324",
                 "322"
             ],
-            "Termin": "CET 13h-15h, U7"
+            "Termin": "cet 17h-19, U3"
         },
         {
-            "Predmet": "Interakcija covek racunar",
-            "Tip": "V",
-            "Nastavnik": "Radosavljevic Nemanja",
+            "Predmet": "Genetski algoritmi",
+            "Tip": "P",
+            "Nastavnik": "Vasiljevic Jelena",
             "Grupe": [
                 "302",
-                "307",
-                "306"
-            ],
-            "Termin": "CET 15h-17h, U4"
-        },
-        {
-            "Predmet": "Kodovanje i teorija informacija",
-            "Tip": "P",
-            "Nastavnik": "Vucic Desimir",
-            "Grupe": [
-                "313",
-                "314",
-                "319",
-                "323",
-                "324",
-                "322"
-            ],
-            "Termin": "CET 15h-18h, U1"
-        },
-        {
-            "Predmet": "Interakcija covek racunar",
-            "Tip": "V",
-            "Nastavnik": "Radosavljevic Nemanja",
-            "Grupe": [
-                "301",
                 "303",
-                "304",
-                "305"
-            ],
-            "Termin": "CET 17h-19h, U4"
-        },
-        {
-            "Predmet": "Microsoft tehnologije za pristup podacima",
-            "Tip": "P",
-            "Nastavnik": "Milosavljevic Milos",
-            "Grupe": [
-                "3s2"
-            ],
-            "Termin": "CET 17h-20h, U3"
-        },
-        {
-            "Predmet": "Implementiranje Microsoft ISA servera",
-            "Tip": "P",
-            "Nastavnik": "Lale Sinisa",
-            "Grupe": [
-                "3s1"
-            ],
-            "Termin": "CET 18h-21h, U7"
-        },
-        {
-            "Predmet": "Softverske komponente",
-            "Tip": "V",
-            "Nastavnik": "Radovic Mihailo",
-            "Grupe": [
-                "301",
-                "307",
+                "305",
+                "306",
+                "309",
                 "309a"
             ],
-            "Termin": "CET 19h-21h, U5"
-        },
-        {
-            "Predmet": "Funkcionalno programiranje",
-            "Tip": "V",
-            "Nastavnik": "Ciganovic Igor",
-            "Grupe": [
-                "302",
-                "304",
-                "309"
-            ],
-            "Termin": "PET 9h-11h, U7"
+            "Termin": "cet 18h-20, U8"
         },
         {
             "Predmet": "Bezbednost mreza",
@@ -591,117 +594,7 @@
                 "324",
                 "322"
             ],
-            "Termin": "PET 9h-11h, U3"
-        },
-        {
-            "Predmet": "WEB programiranje",
-            "Tip": "V",
-            "Nastavnik": "Gavrilovic Vuk",
-            "Grupe": [
-                "308",
-                "309",
-                "314",
-                "319"
-            ],
-            "Termin": "PET 10h-12h, U4"
-        },
-        {
-            "Predmet": "Konkurentni i distribuirani sistemi",
-            "Tip": "V",
-            "Nastavnik": "Milojkovic Branislav",
-            "Grupe": [
-                "401"
-            ],
-            "Termin": "PET 11h-14h, U3"
-        },
-        {
-            "Predmet": "Teorija algoritama, automata i jezika",
-            "Tip": "P",
-            "Nastavnik": "Jovanovic Jelena",
-            "Grupe": [
-                "401",
-                "402"
-            ],
-            "Termin": "PET 11h-14h, U1"
-        },
-        {
-            "Predmet": "Masinsko ucenje",
-            "Tip": "V",
-            "Nastavnik": "Jovanovic Nikola",
-            "Grupe": [
-                "301",
-                "308",
-                "302",
-                "306"
-            ],
-            "Termin": "PET 12h-14h, U8"
-        },
-        {
-            "Predmet": "Digitalna obrada signala",
-            "Tip": "V",
-            "Nastavnik": "Jovanovic Miljana",
-            "Grupe": [
-                "405"
-            ],
-            "Termin": "PET 12h-15h, U4"
-        },
-        {
-            "Predmet": "Namenski racunarski sistemi",
-            "Tip": "P",
-            "Nastavnik": "Jovanovic Milos",
-            "Grupe": [
-                "405"
-            ],
-            "Termin": "PET 13h-16h, U5"
-        },
-        {
-            "Predmet": "WEB programiranje",
-            "Tip": "V",
-            "Nastavnik": "Gavrilovic Vuk",
-            "Grupe": [
-                "301",
-                "303",
-                "304",
-                "307",
-                "322"
-            ],
-            "Termin": "PET 14h-16h, U3"
-        },
-        {
-            "Predmet": "Data centar infrastruktura",
-            "Tip": "V",
-            "Nastavnik": "Martic Goran",
-            "Grupe": [
-                "324",
-                "322"
-            ],
-            "Termin": "PET 16h-18h, U7"
-        },
-        {
-            "Predmet": "WEB programiranje",
-            "Tip": "P",
-            "Nastavnik": "Vidakovic MIlan",
-            "Grupe": [
-                "301",
-                "303",
-                "304",
-                "307",
-                "308",
-                "309",
-                "314",
-                "319",
-                "322"
-            ],
-            "Termin": "PET 17h-19h, U1"
-        },
-        {
-            "Predmet": "Razvoj infrastrukture i servisa u oblaku",
-            "Tip": "P",
-            "Nastavnik": "Miletic Misa",
-            "Grupe": [
-                "3s2"
-            ],
-            "Termin": "PET 17h-20h, U4"
+            "Termin": "cet 19h-21, U7"
         },
         {
             "Predmet": "Genetski algoritmi",
@@ -711,48 +604,155 @@
                 "302",
                 "303"
             ],
-            "Termin": "PET 18h-20h, U5"
+            "Termin": "pet 9h-11, U5"
+        },
+        {
+            "Predmet": "Programski prevodioci",
+            "Tip": "V",
+            "Nastavnik": "Stankovic Ivana",
+            "Grupe": [
+                "306",
+                "307",
+                "309",
+                "309a"
+            ],
+            "Termin": "pet 9h-11, U7"
         },
         {
             "Predmet": "Data centar infrastruktura",
-            "Tip": "P",
+            "Tip": "V",
             "Nastavnik": "Martic Goran",
             "Grupe": [
                 "324",
                 "322"
             ],
-            "Termin": "PET 18h-20h, U7"
+            "Termin": "pet 9h-11, U3"
+        },
+        {
+            "Predmet": "Konkurentni i distribuirani sistemi",
+            "Tip": "P",
+            "Nastavnik": "Milinkovic Stevan",
+            "Grupe": [
+                "401",
+                "402",
+                "405"
+            ],
+            "Termin": "pet 9h-12, U1"
+        },
+        {
+            "Predmet": "Upravljanje i odrzavanje Windows Server okruzenja",
+            "Tip": "P",
+            "Nastavnik": "Lale Sinisa",
+            "Grupe": [
+                "3s1"
+            ],
+            "Termin": "pet 11h-14, U3"
+        },
+        {
+            "Predmet": "Funkcionalno programiranje",
+            "Tip": "V",
+            "Nastavnik": "Ciganovic Igor",
+            "Grupe": [
+                "302",
+                "304",
+                "309"
+            ],
+            "Termin": "pet 12h-14, U7"
+        },
+        {
+            "Predmet": "Digitalna obrada signala",
+            "Tip": "V",
+            "Nastavnik": "Jovanovic Miljana",
+            "Grupe": [
+                "405"
+            ],
+            "Termin": "pet 12h-15, U4"
+        },
+        {
+            "Predmet": "Kodovanje i teorija informacija",
+            "Tip": "P",
+            "Nastavnik": "Vucic Desimir",
+            "Grupe": [
+                "313",
+                "314",
+                "319",
+                "323",
+                "324",
+                "322"
+            ],
+            "Termin": "pet 13h-16, U1"
         },
         {
             "Predmet": "Muzicka produkcija 3",
-            "Tip": "V",
+            "Tip": "P",
             "Nastavnik": "Ognjanovic Ivana",
             "Grupe": [
                 "3d1"
             ],
-            "Termin": "PET 18h-21h, Studio"
+            "Termin": "pet 13h-16, Studio"
         },
         {
-            "Predmet": "Konkurentni i distribuirani sistemi",
-            "Tip": "V",
-            "Nastavnik": "Milojkovic Branislav",
+            "Predmet": "Upravljanje i odrzavanje Windows Server okruzenja",
+            "Tip": "P",
+            "Nastavnik": "Lale Sinisa",
+            "Grupe": [
+                "3s1"
+            ],
+            "Termin": "pet 14h-17, U3"
+        },
+        {
+            "Predmet": "Namenski racunarski sistemi",
+            "Tip": "P",
+            "Nastavnik": "Jovanovic Milos",
             "Grupe": [
                 "405"
             ],
-            "Termin": "PET 18h-21h, U3"
+            "Termin": "pet 15h-18, U4"
         },
         {
-            "Predmet": "Modelovanje i simulacija",
+            "Predmet": "Razvoj mobilnih aplikacija",
             "Tip": "P",
-            "Nastavnik": "Jankovic Radomir",
+            "Nastavnik": "Zirojevic Nemanja",
             "Grupe": [
+                "303",
+                "304",
                 "305",
-                "319",
-                "323",
-                "309a",
-                "324"
+                "306",
+                "307",
+                "308",
+                "313",
+                "314"
             ],
-            "Termin": "PET 19h-21h, U8"
+            "Termin": "pet 17h-19, U1"
+        },
+        {
+            "Predmet": "Implementiranje Microsoft ISA servera",
+            "Tip": "P",
+            "Nastavnik": "Lale Sinisa",
+            "Grupe": [
+                "3s1"
+            ],
+            "Termin": "pet 17h-20, U3"
+        },
+        {
+            "Predmet": "Digitalna obrada signala",
+            "Tip": "P",
+            "Nastavnik": "Babic Djorde",
+            "Grupe": [
+                "405"
+            ],
+            "Termin": "pet 18h-21, U7"
+        },
+        {
+            "Predmet": "Interakcija covek racunar",
+            "Tip": "V",
+            "Nastavnik": "Radosavljevic Nemanja",
+            "Grupe": [
+                "308",
+                "309",
+                "309a"
+            ],
+            "Termin": "pet 19h-21, U5"
         }
     ]
 }

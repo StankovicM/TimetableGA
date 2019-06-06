@@ -1,0 +1,69 @@
+Programski prevodioci (P), Vujosevic Dusan, ['301', '302', '303', '304', '305', '306', '307', '308', '309', '309a'], PON 9h-11h, U1
+Kompresija podataka (P), Vukotic Selena, ['313', '314', '319', '323', '324', '322'], PON 9h-12h, U7
+Graficki dizajn 2 (V), Malesevic Nenad, ['3d1'], PON 9h-12h, Atelje
+Implementiranje Microsoft ISA servera (P), Lale Sinisa, ['3s1'], PON 9h-12h, U4
+Masinsko ucenje (P), Ilic Nemanja, ['301', '302', '306', '308'], PON 11h-13h, U1
+Namenski racunarski sistemi (V), Stambolovic Bogdana, ['405'], PON 11h-14h, U5
+Muzicka produkcija 3 (V), Ognjanovic Ivana, ['3d1'], PON 12h-15h, Studio
+Prakticne tehnike zastite u IP mrezama (P), Bojovic Petar, ['3s1'], PON 12h-15h, U4
+WEB programiranje (P), Vidakovic MIlan, ['301', '303', '304', '307', '308', '309', '314', '319', '322'], PON 13h-15h, U1
+Softverske komponente (P), Dimic Surla Bojana, ['301', '307', '309a'], PON 15h-17h, U1
+Prakticne tehnike zastite u IP mrezama (V), Jankovski Ivan, ['3s1'], PON 15h-18h, U4
+Konkurentni i distribuirani sistemi (V), Milojkovic Branislav, ['402'], PON 15h-18h, U7
+Kodovanje i teorija informacija (V), Jovanovic Miljana, ['313', '314', '319', '323', '324', '322'], PON 16h-18h, U5
+Masinsko ucenje (V), Jovanovic Nikola, ['301', '308', '302', '306'], PON 17h-19h, U1
+Razvoj infrastrukture i servisa u oblaku (P), Miletic Misa, ['3s2'], PON 18h-21h, U4
+Programski prevodioci (V), Stankovic Ivana, ['302', '303', '304'], PON 19h-21h, U3
+Funkcionalno programiranje (P), Dimic Surla Bojana, ['302', '304', '309'], UTO 9h-11h, U3
+Razvoj infrastrukture i servisa u oblaku (V), Miletic Misa, ['3s2'], UTO 9h-12h, U4
+WEB programiranje (V), Gavrilovic Vuk, ['301', '303', '304', '307', '322'], UTO 11h-13h, U5
+Modelovanje i simulacija (P), Jankovic Radomir, ['305', '319', '323', '309a', '324'], UTO 11h-13h, U8
+Scenario i knjiga snimanja (P), Stetin Darko, ['3d1'], UTO 11h-14h, Atelje
+Razvoj web aplikacija i servisa (P), Markovic Nemanja, ['3s2'], UTO 12h-15h, U4
+Interakcija covek racunar (V), Radosavljevic Nemanja, ['302', '307', '306'], UTO 13h-15h, U3
+Softverske komponente (V), Radovic Mihailo, ['301', '307', '309a'], UTO 15h-17h, U7
+Razvoj web aplikacija i servisa (P), Markovic Nemanja, ['3s2'], UTO 15h-18h, U4
+Softversko inzenjerstvo (V), Markovic Ana, ['402'], UTO 17h-21h, U5
+Interakcija covek racunar (P), Vujosevic Dusan, ['301', '302', '303', '304', '305', '306', '307', '308', '309', '309a', '2s1', '2s2'], UTO 18h-20h, Kolarac
+Graficki dizajn 2 (P), Malesevic Nenad, ['3d1'], UTO 18h-21h, U1
+Microsoft tehnologije za pristup podacima (P), Milosavljevic Milos, ['3s2'], UTO 18h-21h, U4
+WEB programiranje (V), Gavrilovic Vuk, ['308', '309', '314', '319'], SRE 9h-11h, U3
+Racunarska animacija (P), Djuric Milan, ['3d1'], SRE 9h-12h, U1
+Microsoft tehnologije za pristup podacima (P), Milosavljevic Milos, ['3s2'], SRE 9h-12h, U4
+Genetski algoritmi (V), Tomic Milan, ['309', '309a', '305', '306'], SRE 11h-13h, U3
+Uvod u robotiku (P), Jovanovic Milos, ['313', '323'], SRE 12h-14h, U8
+Racunarska animacija (V), Djuric Milan, ['3d1'], SRE 12h-15h, U1
+Konkurentni i distribuirani sistemi (V), Milojkovic Branislav, ['401'], SRE 12h-15h, U4
+Modelovanje i simulacija (V), Jankovic Radomir, ['309a', '324', '305'], SRE 13h-15h, U3
+Modelovanje i simulacija (V), Jankovic Radomir, ['319', '323'], SRE 15h-17h, U3
+Scenario i knjiga snimanja (V), Stetin Darko, ['3d1'], SRE 15h-17h, U1
+Softversko inzenjerstvo (V), Markovic Ana, ['401'], SRE 15h-19h, U4
+Interakcija covek racunar (V), Radosavljevic Nemanja, ['301', '303', '304', '305'], SRE 16h-18h, U7
+Istorija racunarstva (P), Zahorjanski Miroljub, ['3s1', '3s2'], SRE 17h-19h, U1
+Programski prevodioci (V), Stankovic Ivana, ['301', '305', '308'], SRE 19h-21h, U7
+Kompresija podataka (V), Vukotic Selena, ['313', '314', '319', '323', '324', '322'], SRE 19h-21h, U3
+Softversko inzenjerstvo (P), Perisic Branko, ['401', '402'], CET 9h-13h, U1
+Bezbednost mreza (P), Babic Djorde, ['313', '314', '319', '323', '324', '322'], CET 10h-12h, U7
+Razvoj mobilnih aplikacija (V), Kojadinovic Dragoljub, ['303', '304', '305', '306', '307', '308', '313', '314'], CET 13h-15h, U7
+Teorija algoritama, automata i jezika (P), Jovanovic Jelena, ['401', '402'], CET 13h-16h, U1
+Teorija algoritama, automata i jezika (V), Tomic Milan, ['401', '402'], CET 16h-19h, U1
+Konkurentni i distribuirani sistemi (V), Milojkovic Branislav, ['405'], CET 16h-19h, U4
+Uvod u robotiku (V), Jovanovic Miljana, ['313', '323'], CET 17h-19h, U5
+Data centar infrastruktura (P), Martic Goran, ['324', '322'], CET 17h-19h, U3
+Genetski algoritmi (P), Vasiljevic Jelena, ['302', '303', '305', '306', '309', '309a'], CET 18h-20h, U8
+Bezbednost mreza (V), Bojovic Petar, ['313', '314', '319', '323', '324', '322'], CET 19h-21h, U7
+Genetski algoritmi (V), Tomic Milan, ['302', '303'], PET 9h-11h, U5
+Programski prevodioci (V), Stankovic Ivana, ['306', '307', '309', '309a'], PET 9h-11h, U7
+Data centar infrastruktura (V), Martic Goran, ['324', '322'], PET 9h-11h, U3
+Konkurentni i distribuirani sistemi (P), Milinkovic Stevan, ['401', '402', '405'], PET 9h-12h, U1
+Upravljanje i odrzavanje Windows Server okruzenja (P), Lale Sinisa, ['3s1'], PET 11h-14h, U3
+Funkcionalno programiranje (V), Ciganovic Igor, ['302', '304', '309'], PET 12h-14h, U7
+Digitalna obrada signala (V), Jovanovic Miljana, ['405'], PET 12h-15h, U4
+Kodovanje i teorija informacija (P), Vucic Desimir, ['313', '314', '319', '323', '324', '322'], PET 13h-16h, U1
+Muzicka produkcija 3 (P), Ognjanovic Ivana, ['3d1'], PET 13h-16h, Studio
+Upravljanje i odrzavanje Windows Server okruzenja (P), Lale Sinisa, ['3s1'], PET 14h-17h, U3
+Namenski racunarski sistemi (P), Jovanovic Milos, ['405'], PET 15h-18h, U4
+Razvoj mobilnih aplikacija (P), Zirojevic Nemanja, ['303', '304', '305', '306', '307', '308', '313', '314'], PET 17h-19h, U1
+Implementiranje Microsoft ISA servera (P), Lale Sinisa, ['3s1'], PET 17h-20h, U3
+Digitalna obrada signala (P), Babic Djorde, ['405'], PET 18h-21h, U7
+Interakcija covek racunar (V), Radosavljevic Nemanja, ['308', '309', '309a'], PET 19h-21h, U5

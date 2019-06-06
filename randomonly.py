@@ -6,7 +6,7 @@ from threading import Thread
 
 dani = ['pon', 'uto', 'sre', 'cet', 'pet']
 
-ucionice = []
+ucionice = None
 
 ulaz = 'ulaz3.json'
 izlaz = 'izlaz2.json'

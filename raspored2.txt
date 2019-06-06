@@ -1,0 +1,165 @@
+Objektno orijentisano programiranje (V), Milojkovic Branislav, ['101'], PON 9h-11h, U2
+Dizajn i informacione tehnologije (P), Telarovic Rosana, ['1d1', '1d2', '1d3'], PON 9h-12h, U6
+Upravljanje informacijama (V), Markovic Ana, ['201'], PON 9h-11h, U3
+Programiranje WEB aplikacija (V), Mihajlovic Todor, ['2s1'], PON 9h-12h, U4
+Softverske komponente (P), Dimic Surla Bojana, ['301', '307', '309a'], PON 9h-11h, U8
+Uvod u robotiku (V), Jovanovic Miljana, ['313', '323'], PON 9h-11h, U5
+Razvoj infrastrukture i servisa u oblaku (P), Miletic Misa, ['3s2'], PON 9h-12h, U7
+Objektno orijentisano programiranje (L), Burgic Stefan, ['101'], PON 11h-13h, U2
+Operativni sistemi (V), Veniger Marko, ['202'], PON 11h-14h, U3
+Masinsko ucenje (V), Jovanovic Nikola, ['301', '308', '302', '306'], PON 11h-13h, U8
+Modelovanje i simulacija (V), Jankovic Radomir, ['319', '323'], PON 11h-13h, U5
+Dizajn i informacione tehnologije (V), Bujic Predrag, ['1d1', '1d2', '1d3'], PON 12h-15h, U6
+Elektronsko poslovanje (V), Radosavljevic Nemanja, ['2s1'], PON 12h-14h, U4
+Digitalne komunikacije (P), Vucic Desimir, ['210', '211'], PON 13h-16h, U9
+Genetski algoritmi (P), Vasiljevic Jelena, ['302', '303', '305', '306', '309', '309a'], PON 13h-15h, U8
+Data centar infrastruktura (P), Martic Goran, ['324', '322'], PON 13h-15h, U5
+Matematicka analiza (P), Jovanovic Irena, ['101', '102'], PON 14h-16h, U11
+Racunarske mreze (V), Galic Luka, ['202'], PON 14h-17h, U3
+Racunarske komunikacije (V), Babovic Ivan, ['2s2'], PON 14h-17h, U4
+Konkurentni i distribuirani sistemi (V), Milojkovic Branislav, ['405'], PON 14h-17h, U2
+Pismeno i usmeno izrazavanje (P), Markovic Mirjana, ['1s1', '1s2'], PON 15h-17h, U6
+Razvoj mobilnih aplikacija (P), Zirojevic Nemanja, ['303', '304', '305', '306', '307', '308', '313', '314'], PON 15h-17h, U8
+Data centar infrastruktura (V), Martic Goran, ['324', '322'], PON 15h-17h, U5
+Diskretne strukture (P), Jovanovic Irena, ['101', '102'], PON 16h-18h, U1
+Objektno orijentisano programiranje (V), Tomic Milan, ['103'], PON 17h-19h, U2
+Osnovi informacionih tehnologija (P), Zahorjanski Miroljub, ['1s1', '1s2'], PON 17h-20h, U6
+Upravljanje informacijama (V), Markovic Ana, ['202'], PON 17h-19h, U3
+Programiranje WEB aplikacija (V), Mihajlovic Todor, ['2s2'], PON 17h-20h, U4
+Modelovanje i simulacija (P), Jankovic Radomir, ['305', '319', '323', '309a', '324'], PON 17h-19h, U8
+Upravljanje i odrzavanje Windows Server okruzenja (P), Lale Sinisa, ['3s1'], PON 17h-20h, U5
+Diskretne strukture (V), Jerotijevic Marija, ['101', '102'], PON 18h-21h, U1
+Objektno orijentisano programiranje (L), Vignjevic Mihailo, ['103'], PON 19h-21h, U2
+Upravljanje informacijama (V), Markovic Ana, ['203'], PON 19h-21h, U3
+Uvod u robotiku (P), Jovanovic Milos, ['313', '323'], PON 19h-21h, U8
+Engleski 2 (P), Cuk Bojana, ['101', '102'], UTO 9h-11h, U1
+Objektno orijentisano programiranje (L), Dresevic Nevena, ['104'], UTO 9h-11h, U2
+Dizajn i analiza algoritama (V), Bakarec Bogdan, ['201'], UTO 9h-11h, U6
+Operativni sistemi (V), Veniger Marko, ['203'], UTO 9h-12h, U3
+Napredna matematicka analiza (V), Filipovic Milanka, ['210', '211'], UTO 9h-11h, U9
+Programiranje WEB aplikacija (P), Radosavljevic Nemanja, ['2s2'], UTO 9h-11h, U4
+Kodovanje i teorija informacija (P), Vucic Desimir, ['313', '314', '319', '323', '324', '322'], UTO 9h-12h, U8
+Upravljanje i odrzavanje Windows Server okruzenja (P), Lale Sinisa, ['3s1'], UTO 9h-12h, U5
+Namenski racunarski sistemi (V), Stambolovic Bogdana, ['405'], UTO 9h-12h, U7
+Pismeno i usmeno izrazavanje (P), Markovic Mirjana, ['101', '102'], UTO 11h-13h, U1
+Objektno orijentisano programiranje (V), Stancic Aleksandar, ['104'], UTO 11h-13h, U2
+Upravljanje informacijama (P), Perisic Branko, ['201', '202'], UTO 11h-14h, U6
+Interakcija covek racunar (V), Mijatovic Igor, ['2s2'], UTO 11h-13h, U4
+Racunarske mreze (V), Vucicevic Nemanja, ['203'], UTO 12h-15h, U3
+Graficki dizajn 2 (P), Malesevic Nenad, ['3d1'], UTO 12h-15h, U8
+Implementiranje Microsoft ISA servera (P), Lale Sinisa, ['3s1'], UTO 12h-15h, U5
+Matematicka analiza (P), Jovanovic Irena, ['103', '104'], UTO 13h-15h, U1
+Objektno orijentisano programiranje (L), Vignjevic Mihailo, ['105'], UTO 13h-15h, U2
+Elektronsko poslovanje (V), Radosavljevic Nemanja, ['2s2'], UTO 13h-15h, U4
+Dizajn i analiza algoritama (P), Urosevic Dragan, ['201', '202'], UTO 14h-16h, U6
+Matematicka analiza (V), Jerotijevic Marija, ['103', '104'], UTO 15h-18h, U1
+Objektno orijentisano programiranje (V), Stancic Aleksandar, ['105'], UTO 15h-17h, U2
+Operativni sistemi (V), Veniger Marko, ['204'], UTO 15h-18h, U3
+Interakcija covek racunar (V), Radosavljevic Nemanja, ['301', '303', '304', '305'], UTO 15h-17h, U4
+Racunarska animacija (P), Djuric Milan, ['3d1'], UTO 15h-18h, U8
+Implementiranje Microsoft ISA servera (P), Lale Sinisa, ['3s1'], UTO 15h-18h, U5
+Dizajn i analiza algoritama (V), Bakarec Bogdan, ['202'], UTO 16h-18h, U6
+Namenski racunarski sistemi (P), Jovanovic Milos, ['405'], UTO 16h-19h, U7
+Objektno orijentisano programiranje (L), Ciric Bogdan, ['106'], UTO 17h-19h, U2
+WEB programiranje (V), Gavrilovic Vuk, ['301', '303', '304', '307', '322'], UTO 17h-19h, U4
+Objektno orijentisano programiranje (P), Dimic Surla Bojana, ['103', '104'], UTO 18h-20h, U1
+Dizajn i analiza algoritama (V), Draskic Radojica, ['203'], UTO 18h-20h, U6
+Racunarske mreze (V), Vucicevic Nemanja, ['204'], UTO 18h-21h, U3
+Racunarska animacija (V), Djuric Milan, ['3d1'], UTO 18h-21h, U8
+Prakticne tehnike zastite u IP mrezama (P), Bojovic Petar, ['3s1'], UTO 18h-21h, U5
+Objektno orijentisano programiranje (L), Burgic Stefan, ['102'], UTO 19h-21h, U7
+Objektno orijentisano programiranje (V), Zirojevic Nemanja, ['106'], UTO 19h-21h, U2
+Programski prevodioci (V), Stankovic Ivana, ['301', '305', '308'], UTO 19h-21h, U4
+Diskretne strukture (V), Jerotijevic Marija, ['103', '104'], SRE 9h-12h, U1
+Objektno orijentisano programiranje (V), Stancic Aleksandar, ['107'], SRE 9h-11h, U2
+Upravljanje informacijama (P), Perisic Branko, ['203', '204', '205'], SRE 9h-12h, U6
+Softverske komponente (V), Radovic Mihailo, ['301', '307', '309a'], SRE 9h-11h, U4
+Scenario i knjiga snimanja (V), Stetin Darko, ['3d1'], SRE 9h-11h, U8
+Prakticne tehnike zastite u IP mrezama (V), Jankovski Ivan, ['3s1'], SRE 9h-12h, U5
+Digitalna obrada signala (V), Jovanovic Miljana, ['405'], SRE 9h-12h, U7
+Objektno orijentisano programiranje (L), Dresevic Nevena, ['107'], SRE 11h-13h, U2
+Genetski algoritmi (V), Tomic Milan, ['302', '303'], SRE 11h-13h, U4
+Objektno orijentisano programiranje (V), Milojkovic Branislav, ['102'], SRE 12h-14h, U5
+Diskretne strukture (P), Jovanovic Irena, ['103', '104'], SRE 12h-14h, U1
+Dizajn i analiza algoritama (P), Urosevic Dragan, ['203', '204', '205'], SRE 12h-14h, U6
+Administracija i odrzavanje sistema 2 (P), Lale Sinisa, ['1s1'], SRE 13h-16h, U2
+Programski prevodioci (V), Stankovic Ivana, ['302', '303', '304'], SRE 13h-15h, U4
+Softversko inzenjerstvo (P), Perisic Branko, ['401', '402'], SRE 13h-17h, U8
+Engleski 2 (P), Cuk Bojana, ['103', '104'], SRE 14h-16h, U1
+Dizajn i analiza algoritama (V), Draskic Radojica, ['204'], SRE 14h-16h, U6
+Racunarske mreze (V), Mitrovic Marko, ['205'], SRE 14h-17h, U3
+Funkcionalno programiranje (P), Dimic Surla Bojana, ['302', '304', '309'], SRE 15h-17h, U4
+Kodovanje i teorija informacija (V), Jovanovic Miljana, ['313', '314', '319', '323', '324', '322'], SRE 15h-17h, U7
+Razvoj infrastrukture i servisa u oblaku (V), Miletic Misa, ['3s2'], SRE 15h-18h, U5
+Pismeno i usmeno izrazavanje (P), Markovic Mirjana, ['103', '104'], SRE 16h-18h, U1
+Administracija i odrzavanje sistema 2 (P), Lale Sinisa, ['1s1'], SRE 16h-19h, U2
+Racunarske mreze (P), Bojovic Petar, ['210', '211'], SRE 16h-19h, U6
+Elektronsko poslovanje (P), Popovic Snezana, ['2s1', '2s2'], SRE 16h-19h, U9
+Upravljanje informacijama (V), Markovic Ana, ['205'], SRE 17h-19h, U3
+Funkcionalno programiranje (V), Ciganovic Igor, ['302', '304', '309'], SRE 17h-19h, U4
+Teorija algoritama, automata i jezika (P), Jovanovic Jelena, ['401', '402'], SRE 17h-20h, U8
+Matematicka analiza (P), Jovanovic Irena, ['105', '106', '107'], SRE 18h-20h, U1
+Razvoj web aplikacija i servisa (P), Markovic Nemanja, ['3s2'], SRE 18h-21h, U5
+Osnovi informacionih tehnologija (V), Zahorjanski Miroljub, ['1s1'], SRE 19h-20h, U2
+Dizajn i analiza algoritama (V), Draskic Radojica, ['205'], SRE 19h-21h, U3
+Napredna matematicka analiza (P), Filipovic Milanka, ['210', '211'], SRE 19h-21h, U6
+Interakcija covek racunar (V), Radosavljevic Nemanja, ['302', '307', '306'], SRE 19h-21h, U4
+Osnovi informacionih tehnologija (V), Zahorjanski Miroljub, ['1s2'], SRE 20h-21h, U2
+Matematicka analiza (V), Jerotijevic Marija, ['105', '106', '107'], CET 9h-12h, U1
+Poslovni softver (P), Mijatovic Igor, ['1s1'], CET 9h-12h, U2
+Operativni sistemi (V), Milojkovic Branislav, ['210'], CET 9h-12h, U3
+Razvoj mobilnih aplikacija (V), Kojadinovic Dragoljub, ['303', '304', '305', '306', '307', '308', '313', '314'], CET 9h-11h, U4
+Razvoj web aplikacija i servisa (P), Markovic Nemanja, ['3s2'], CET 9h-12h, U5
+Teorija algoritama, automata i jezika (V), Tomic Milan, ['401', '402'], CET 9h-12h, U8
+Programski prevodioci (V), Stankovic Ivana, ['306', '307', '309', '309a'], CET 11h-13h, U4
+Objektno orijentisano programiranje (P), Dimic Surla Bojana, ['105', '106', '107'], CET 12h-14h, U1
+Poslovni softver (P), Mijatovic Igor, ['1s1'], CET 12h-14h, U2
+Racunarske mreze (V), Mitrovic Marko, ['210'], CET 12h-15h, U3
+Microsoft tehnologije za pristup podacima (P), Milosavljevic Milos, ['3s2'], CET 12h-15h, U5
+Konkurentni i distribuirani sistemi (P), Milinkovic Stevan, ['401', '402', '405'], CET 12h-15h, U8
+Interakcija covek racunar (V), Radosavljevic Nemanja, ['308', '309', '309a'], CET 13h-15h, U4
+Diskretne strukture (P), Jovanovic Irena, ['105', '106', '107'], CET 14h-16h, U1
+Administracija i odrzavanje sistema 2 (P), Seslija Ognjen, ['1s2'], CET 14h-17h, U2
+Grafiicki dizajn 1 (P), Malesevic Nenad, ['2d1'], CET 14h-17h, U6
+Digitalne komunikacije (V), Jovanovic Miljana, ['210'], CET 15h-17h, U3
+WEB programiranje (V), Gavrilovic Vuk, ['308', '309', '314', '319'], CET 15h-17h, U4
+Microsoft tehnologije za pristup podacima (P), Milosavljevic Milos, ['3s2'], CET 15h-18h, U5
+Diskretne strukture (V), Jerotijevic Marija, ['105', '106', '107'], CET 16h-19h, U1
+Upravljanje informacijama (V), Markovic Ana, ['204'], CET 16h-18h, U7
+Administracija i odrzavanje sistema 2 (P), Seslija Ognjen, ['1s2'], CET 17h-20h, U2
+Operativni sistemi (V), Veniger Marko, ['211'], CET 17h-20h, U3
+Prostor i oblik (P), Telarovic Rosana, ['2d1'], CET 17h-20h, U6
+Genetski algoritmi (V), Tomic Milan, ['309', '309a', '305', '306'], CET 17h-19h, U4
+Konkurentni i distribuirani sistemi (V), Milojkovic Branislav, ['401'], CET 18h-21h, U5
+Digitalna obrada signala (P), Babic Djorde, ['405'], CET 18h-21h, U7
+Objektno orijentisano programiranje (P), Dimic Surla Bojana, ['101', '102'], CET 19h-21h, U9
+Pismeno i usmeno izrazavanje (P), Markovic Mirjana, ['105', '106', '107'], CET 19h-21h, U1
+Modelovanje i simulacija (V), Jankovic Radomir, ['309a', '324', '305'], CET 19h-21h, U4
+Engleski 2 (P), Cuk Bojana, ['106'], PET 9h-11h, U1
+Poslovni softver (P), Mijatovic Igor, ['1s2'], PET 9h-12h, U2
+Racunarske mreze (V), Mitrovic Marko, ['211'], PET 9h-12h, U3
+Racunarske komunikacije (P), Babovic Ivan, ['2s1', '2s2'], PET 9h-12h, U6
+Bezbednost mreza (P), Babic Djorde, ['313', '314', '319', '323', '324', '322'], PET 9h-11h, U4
+Softversko inzenjerstvo (V), Markovic Ana, ['401'], PET 9h-13h, U5
+Istorija racunarstva (P), Zahorjanski Miroljub, ['3s1', '3s2'], PET 10h-12h, U9
+Engleski 2 (P), Cuk Bojana, ['107', '105'], PET 11h-13h, U1
+Bezbednost mreza (V), Bojovic Petar, ['313', '314', '319', '323', '324', '322'], PET 11h-13h, U4
+Poslovni softver (P), Mijatovic Igor, ['1s2'], PET 12h-14h, U2
+Digitalne komunikacije (V), Jovanovic Miljana, ['211'], PET 12h-14h, U3
+Ilustracija (P), Djuric Milan, ['1d1', '1d2', '1d3'], PET 13h-16h, U1
+Kompresija podataka (P), Vukotic Selena, ['313', '314', '319', '323', '324', '322'], PET 13h-16h, U4
+Konkurentni i distribuirani sistemi (V), Milojkovic Branislav, ['402'], PET 13h-16h, U5
+Operativni sistemi (V), Veniger Marko, ['201'], PET 14h-17h, U2
+Racunarske komunikacije (V), Babovic Ivan, ['2s1'], PET 14h-17h, U3
+Programski prevodioci (P), Vujosevic Dusan, ['301', '302', '303', '304', '305', '306', '307', '308', '309', '309a'], PET 15h-17h, U6
+Ilustracija (V), Djuric Milan, ['1d1', '1d2', '1d3'], PET 16h-19h, U1
+Kompresija podataka (V), Vukotic Selena, ['313', '314', '319', '323', '324', '322'], PET 16h-18h, U4
+Softversko inzenjerstvo (V), Markovic Ana, ['402'], PET 16h-20h, U5
+Racunarske mreze (V), Galic Luka, ['201'], PET 17h-20h, U2
+Operativni sistemi (V), Milojkovic Branislav, ['205'], PET 17h-20h, U7
+Programiranje WEB aplikacija (P), Radosavljevic Nemanja, ['2s1'], PET 17h-19h, U3
+Masinsko ucenje (P), Ilic Nemanja, ['301', '302', '306', '308'], PET 17h-19h, U6
+Matematicka analiza (V), Jerotijevic Marija, ['101', '102'], PET 18h-21h, U8
+Engleski 2 (P), Vrbica-Matejic Vera, ['1s1', '1s2'], PET 19h-21h, U1
+Interakcija covek racunar (V), Mijatovic Igor, ['2s1'], PET 19h-21h, U3
+WEB programiranje (P), Vidakovic MIlan, ['301', '303', '304', '307', '308', '309', '314', '319', '322'], PET 19h-21h, U6
